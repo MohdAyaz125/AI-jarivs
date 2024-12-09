@@ -28,19 +28,3 @@ Add multi-language support.
 Create a GUI for better user interaction.
 Implement cloud-based processing for advanced features.
 
-How to Run:
-
-Clone the repository.
-bash
-Copy code
-git clone https://github.com/yourusername/jarvis.git  
-cd jarvis  
-Install required dependencies.
-bash
-Copy code
-pip install -r requirements.txt  
-Run the main script.
-bash
-Copy code
-python jarvis.py  
-Start interacting with JARVIS using your voice!
